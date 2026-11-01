@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-10-30 18:51:43.621315400 UTC
+// 2026-11-01 23:39:14.949896 UTC
 
 pub const cs2_dumper = struct {
     pub const interfaces = struct {
@@ -178,7 +178,7 @@ pub const cs2_dumper = struct {
             pub const SoundOpSystem001: usize = 0x532B20;
             pub const SoundOpSystemEdit001: usize = 0x532A30;
             pub const SoundSystem001: usize = 0x532420;
-            pub const VMixEditTool001: usize = 0x5941C0F;
+            pub const VMixEditTool001: usize = 0x5941C1F;
         };
         // Module: steamaudio.dll
         pub const steamaudio_dll = struct {
